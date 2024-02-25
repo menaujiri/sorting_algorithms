@@ -1,3 +1,3 @@
 ALX Project. 
 
-Sorting Argorithmes
+Sorting Argorithmes project
